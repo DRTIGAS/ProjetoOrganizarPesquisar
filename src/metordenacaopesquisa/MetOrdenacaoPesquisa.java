@@ -13,6 +13,9 @@ public class MetOrdenacaoPesquisa {
         lista.inserirAluno(2, "CCCC");
         lista.inserirAluno(15, "DDDD");
         lista.inserirAluno(20, "EEEE");
+        
+         lista.imprimir();
+         lista.localizarAluno(3132);
 
         lista.inserirAluno(3132, "Thiago Cézar");
         lista.inserirAluno(3150, "Marcos Sousa");
